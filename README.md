@@ -21,7 +21,7 @@
 
 
 ```lua
-iUnknownBr@GitHub
+richinnersoul@github
 ▔▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
 Shell: Windows Terminal

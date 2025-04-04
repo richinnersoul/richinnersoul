@@ -17,7 +17,7 @@
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://imgur.com/JRKB5oc.png" width="230"/> 
+<a href="#"><img align="left" src="https://imgur.com/a/orDjpt6" width="230"/> 
 
 
 ```lua

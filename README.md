@@ -38,15 +38,8 @@ Hobbies: Valorant, Roblox...
 
 <br><br>
 
-<p align="center"><strong>GitHub Status</strong></p>
-
-| <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a> <p align="center"><a href="https://github.com/richinnersoul/Khan_Alma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iUnknownBr&repo=Kahoot-Destroyer&theme=github_dark&border_color=30363f&border_radius=0"/></a> <p align="center"><a href="https://github.com/richinnersoul/Khan_Alma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkMod3&repo=CMSP-Plataformas-Hacks&theme=github_dark&border_color=30363f&border_radius=0"/></a></p>
-|--|--|
-
+ 
 <br>
-<p align="center">
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=iUnknownBr&style=for-the-badge&label=Views:&color=gray"/></a>
-</p>
 <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
 </a>

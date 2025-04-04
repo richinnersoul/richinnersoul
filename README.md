@@ -40,7 +40,9 @@ Hobbies: Valorant, Roblox...
 
 <p align="center"><strong>GitHub Status</strong></p>
 
- <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a> <p align="center"><a href="repo=Kahoot-Destroyer&theme=github_dark&border_color=30363f&border_radius=0"/></a> <p align="center"><a href="https://github.com/richinnersoul/Khan_Alma"><img src=""/></a></p>
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a>
+ 
+  <p align="center"><a href="repo=Kahoot-Destroyer&theme=github_dark&border_color=30363f&border_radius=0"/></a> <p align="center"><a href="https://github.com/richinnersoul/Khan_Alma"><img src=""/></a></p>
 
 
 <br>

@@ -38,7 +38,10 @@ Hobbies: Valorant, Roblox...
 
 <br><br>
 
- 
+<p align="center"><strong>GitHub Status</strong></p>
+
+| <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a> 
+
 <br>
 <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">

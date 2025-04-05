@@ -25,7 +25,6 @@ richinnersoul@github
 ▔▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
 Shell: Windows Terminal
-Pronouns: Ele/Dele
 Location: Brasil, PR
 Learning: HTML, CSS
 Languages: Python, Lua, Java, C++, JavaScript.

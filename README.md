@@ -27,8 +27,8 @@ OS: Windows 10 x64
 Shell: Windows Terminal
 Location: Brasil, PR
 Learning: HTML, CSS
-Languages: Python, Lua, Java, C++, JavaScript.
-Hobbies: Valorant, Roblox... 
+Languages: Python, Lua, Java, C++, JavaScript, CSS.
+Hobbies: Valorant, Roblox, DayZ. 
 ```
 
 <br><br>

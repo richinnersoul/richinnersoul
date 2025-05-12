@@ -23,7 +23,7 @@
 ```lua
 richinnersoul@github
 ▔▔▔▔▔▔▔▔▔
-OS: Windows 10 x64
+OS: Windows 11 x64
 Shell: Windows Terminal
 Location: Brasil, PR
 Learning: HTML, CSS
